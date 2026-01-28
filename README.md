@@ -1,5 +1,7 @@
 ⚡Kritik altyapılara yönelik saldırılar %300 arttı!
+
 ⚡Devletler artık siber orduları resmi olarak konuşlandırıyor!
+
 ⚡Bir APT saldırısının ortalama tespit süresi: 280+ gün!
 
 🟥 Devlet destekli Siber Saldırılar bilim kurgu filmi değil, yaşadığımız dünyanın bir gerçekliği artık. 
